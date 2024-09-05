@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    background-color: antiquewhite;
+}
+
+.container{
+    background-color:azure;
+    border-radius: 10px;
+    padding: 5px;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    border-bottom: double;
+}
+
+table{
+    border-top: double;
+    border-spacing: 5px;
+    table-layout: fixed;
+    box-sizing: border-box;
+}
+
+input{
+    padding: 5px;
+    width: 100px;
+}
+
+button{
+    font-size: 18px;
+    height: 55px;
+    width: 55px;
+}
+
+#hasil{
+    background-color: white;
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 4px;
+    padding-left: 8px;
+    max-width: 100px;
+    height: 20px;
+}
